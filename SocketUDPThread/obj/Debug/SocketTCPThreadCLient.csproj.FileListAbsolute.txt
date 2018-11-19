@@ -1,0 +1,7 @@
+D:\STACK\IG\IGBAC3\Réseaux et télécommunications\SocketTCPThread\SocketUDPThread\obj\Debug\SocketTCPThreadCLient.csproj.CoreCompileInputs.cache
+D:\STACK\IG\IGBAC3\Réseaux et télécommunications\SocketTCPThread\SocketUDPThread\bin\Debug\SocketUDPThread.exe.config
+D:\STACK\IG\IGBAC3\Réseaux et télécommunications\SocketTCPThread\SocketUDPThread\bin\Debug\SocketUDPThread.exe
+D:\STACK\IG\IGBAC3\Réseaux et télécommunications\SocketTCPThread\SocketUDPThread\bin\Debug\SocketUDPThread.pdb
+D:\STACK\IG\IGBAC3\Réseaux et télécommunications\SocketTCPThread\SocketUDPThread\obj\Debug\SocketUDPThread.exe
+D:\STACK\IG\IGBAC3\Réseaux et télécommunications\SocketTCPThread\SocketUDPThread\obj\Debug\SocketUDPThread.pdb
+D:\STACK\IG\IGBAC3\Réseaux et télécommunications\SocketTCPThread\SocketUDPThread\obj\Debug\SocketTCPThreadCLient.csprojAssemblyReference.cache

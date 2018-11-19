@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketTCPThread", "SocketTCPThread\SocketTCPThread.csproj", "{FDE45A96-73A6-4DAE-91F8-7683D1FBCD8D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketTCPThreadServer", "SocketTCPThread\SocketTCPThreadServer.csproj", "{FDE45A96-73A6-4DAE-91F8-7683D1FBCD8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketUDPThread", "SocketUDPThread\SocketUDPThread.csproj", "{5C4E6A62-ED16-4620-BAC8-5740307CA357}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketTCPThreadClient", "SocketUDPThread\SocketTCPThreadClient.csproj", "{5C4E6A62-ED16-4620-BAC8-5740307CA357}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

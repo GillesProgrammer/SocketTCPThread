@@ -28,11 +28,6 @@ namespace SocketTCPThread
                 ClientCommunication cc = new ClientCommunication(c, nbclients);
                 Thread th = new Thread(Communication);
                 th.Start(cc);
-                while (true)
-                {
-                    //lire message client
-
-                }
 
             }
         }
@@ -51,8 +46,8 @@ namespace SocketTCPThread
 
             while (true)
             {
-                string request = tr.ReadLine();
-                tw.WriteLine("Serveur répond : " + request);
+                Console.WriteLine(tr.ReadLine());
+                tw.WriteLine("Serveur : " + Console.ReadLine());
                 tw.Flush();
             }
 
